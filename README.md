@@ -3,7 +3,12 @@
 Weather Forecasting Application
 
 Technology :
-MVVM , Clean architectecture , Kotlin Coroutines, Jetpack Compose,Jetpack navigation,Retrofit, Hilt
+1. MVVM
+2. Clean architectecture
+3. Kotlin Coroutines
+4. Jetpack Compose
+5. Jetpack navigation
+6. Retrofit, Hilt
 
 Funtionality :
 1. Auto Location Detection
